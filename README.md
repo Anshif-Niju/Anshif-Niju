@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anshif-Niju
 - 👀 I’m interested in Artificial Intelligence,Sotware Engineering,Data Science.
-- 🌱 I’m currently Learning Machine Launguage.
-- 💞️ I’m looking to collaborate on Various Data Structure Problem.
-- 📫 How to reach me Linkedln"https://www.linkedin.com/in/anshif-p-1b336724a/"
+- 🌱 I’m currently Learning to Solve Critical Data Structure.
+- 💞️ I’m looking to collaborate on Various Product Based Companies.
+- 📫 How to reach me-> Linkedln"https://www.linkedin.com/in/anshif-p-1b336724a/"
 - 😄 Pronouns: HE
 - ⚡ Fun fact: Machines are ruling the World.
