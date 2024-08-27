@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Anshif-Niju
+- 👀 I’m interested in Artificial Intelligence.
+- 🌱 I’m currently Learning Machine Launguage.
+- 💞️ I’m looking to collaborate on Various Data Structure Problem.
+- 📫 How to reach me Linkedln"https://www.linkedin.com/in/anshif-p-1b336724a/"
+- 😄 Pronouns: HE
+- ⚡ Fun fact: Machines are ruling the World.
